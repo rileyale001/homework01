@@ -22,13 +22,9 @@ The following changes were made to the HTML:
 
 - other images had alt labels added so that assistive readers would describe the image
 
-![The Horiseon webpage including a navigation bar, header image, and cards with text and images at the bottom of the page.](C:\Users\12068\desktop\homework\homework01\assets\images\hw1 ss1.PNG)
+![Screenshot](assets\images\screenshot-html-01.PNG)
 
-
-
-![The Horiseon webpage including a navigation bar, header image, and cards with text and images at the bottom of the page.](assets\images\hw1 ss1.PNG)
-
-
+![Screenshot](assets\images\screenshot-html-02.PNG)
 
 # CSS
 
@@ -40,7 +36,13 @@ The following changes were made to the CSS:
 
 - Applications CSS selectors and properties were consolidated and organzied to follow the new semantic structure of the HTML document.
 
+![Screenshot](assets\images\screenshot-css-01.PNG)
 
+![Screenshot](assets\images\screenshot-css-02.PNG)
+
+![Screenshot](assets\images\screenshot-css-03.PNG)
+
+![Screenshot](assets\images\screenshot-css-04.PNG)
 
 # Links
 
