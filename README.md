@@ -22,7 +22,7 @@ The following changes were made to the HTML:
 
 - other images had alt labels added so that assistive readers would describe the image
 
-![Screenshot](./assets\images\screenshot-html-01.PNG)
+![Screenshot]("https://i.postimg.cc/d1xF9j4N/screenshot-css-01.png")
 
 ![Screenshot](./assets\images\screenshot-html-02.PNG)
 
