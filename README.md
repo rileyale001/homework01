@@ -22,9 +22,9 @@ The following changes were made to the HTML:
 
 - other images had alt labels added so that assistive readers would describe the image
 
-![Screenshot](https://i.postimg.cc/d1xF9j4N/screenshot-css-01.png)
+![Screenshot](./assets/images/screenshot-html-01.PNG)
 
-![Screenshot](./assets\images\screenshot-html-02.PNG)
+![Screenshot](./assets/images/screenshot-html-02.PNG)
 
 # CSS
 
@@ -36,16 +36,16 @@ The following changes were made to the CSS:
 
 - Applications CSS selectors and properties were consolidated and organzied to follow the new semantic structure of the HTML document.
 
-![Screenshot](./assets\images\screenshot-css-01.PNG)
+![Screenshot](./assets/images/screenshot-css-01.PNG)
 
-![Screenshot](./assets\images\screenshot-css-02.PNG)
+![Screenshot](./assets/images/screenshot-css-02.PNG)
 
-![Screenshot](./assets\images\screenshot-css-03.PNG)
+![Screenshot](./assets/images/screenshot-css-03.PNG)
 
-![Screenshot](./assets\images\screenshot-css-04.PNG)
+![Screenshot](./assets/images/screenshot-css-04.PNG)
 
 # Links
 
 
-![Github]("https://github.com/rileyale001/homework01SemanticMarkupandRefactor.git")
-![Github]("https://rileyale001.github.io/homework01SemanticMarkupandRefactor")
+![Github](https://github.com/rileyale001/homework01SemanticMarkupandRefactor.git)
+![Github](https://rileyale001.github.io/homework01SemanticMarkupandRefactor)
