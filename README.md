@@ -47,7 +47,7 @@ The following changes were made to the CSS:
 # Links
 
 
-![Github](https://github.com/rileyale001/homework01SemanticMarkupandRefactor.git)
+[Github](https://github.com/rileyale001/homework01SemanticMarkupandRefactor.git)
 
-![Github link](https://rileyale001.github.io/homework1SemanticMarkupandRefactor/)
+[Github link](https://rileyale001.github.io/homework1SemanticMarkupandRefactor/)
 
