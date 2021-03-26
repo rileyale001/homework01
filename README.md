@@ -25,6 +25,11 @@ The following changes were made to the HTML:
 ![The Horiseon webpage including a navigation bar, header image, and cards with text and images at the bottom of the page.](C:\Users\12068\desktop\homework\homework01\assets\images\hw1 ss1.PNG)
 
 
+
+![The Horiseon webpage including a navigation bar, header image, and cards with text and images at the bottom of the page.](assets\images\hw1 ss1.PNG)
+
+
+
 # CSS
 
 The following changes were made to the CSS:
