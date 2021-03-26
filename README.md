@@ -22,8 +22,7 @@ The following changes were made to the HTML:
 
 - other images had alt labels added so that assistive readers would describe the image
 
-![Alt text](/../<assets\hw1 ss1.PNG)
-![Alt text](/../<assets\hw1 ss2.PNG)
+![alt text](https://postimg.cc/MntJtSKk)
 
 
 # CSS
@@ -36,10 +35,6 @@ The following changes were made to the CSS:
 
 - Applications CSS selectors and properties were consolidated and organzied to follow the new semantic structure of the HTML document.
 
-![Alt text](/../<assets\hw1 ss3.PNG)
-![Alt text](/../<assets\hw1 ss4.PNG)
-![Alt text](/../<assets\hw1 ss5.PNG)
-![Alt text](/../<assets\hw1 ss6.PNG)
 
 
 # Links
