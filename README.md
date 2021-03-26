@@ -22,7 +22,7 @@ The following changes were made to the HTML:
 
 - other images had alt labels added so that assistive readers would describe the image
 
-![alt text](https://postimg.cc/MntJtSKk)
+![The Horiseon webpage including a navigation bar, header image, and cards with text and images at the bottom of the page.](C:\Users\12068\desktop\homework\homework01\assets\images\hw1 ss1.PNG)
 
 
 # CSS
