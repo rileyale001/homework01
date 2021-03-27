@@ -9,7 +9,7 @@ body {
     background-color: #d9dcd6;
 }
  
-/* The header now includes the links within the document so that when
+/* The header includes the links within the document so that when
  the assistive reader readers the document it begins with "header" and reads the links for the user
 padding will all be 20px and follows the font family of 'Trebuchet MS', 'Lucida Sans Unicode',
  'Lucida Grande', 'Lucida Sans', Arial, sans-serif */
@@ -20,7 +20,7 @@ header {
     color: #ffffff;
 }
 
-/* The header h1 now has inline-block display to fall under the header tag in
+/* The header h1 has inline-block display to fall under the header tag in
  an inline block display and font size of 48px*/
 header h1 {
     display: inline-block;
@@ -31,9 +31,9 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* The nav tag now properly navigates and tells the assistive reader where the links go within 
+/* The nav tag navigates and tells the assistive reader where the links go within 
 the webpage and is grouped within the header of the document and also groups all the links together in 
-a nav functionality and floats to the right of the page within the header*/
+a nav functionality and floats to the right of the page within the header will float right*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -63,7 +63,7 @@ p {
     font-size: 16px;
 }
 
-/* The background image originally tagged as hero is now more descriptive as a div area
+/* The background image originally tagged as hero is now more descriptive as a background-image area
  for the reader to know that the document has a background image area which is embedded 
  in the css as URL */
 .background-image {
@@ -75,7 +75,7 @@ p {
     background-position: center;
 }
 
-/* Content groups all the content section of this document and and 
+/* Main groups all the content section of this document and 
 selectors and properties are all contained within the main area*/
 main {
     width: 75%;
