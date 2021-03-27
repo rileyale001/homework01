@@ -20,7 +20,9 @@ The following changes were made to the HTML:
 
 - aria-label and title was add to background-image so that when users put mouse of image it would show what the background image was a Horiseon marketing team and that assistive readers could tell the reader that the background image role was an image.
 
-- other images had alt labels added so that assistive readers would describe the image
+- other images had alt labels added so that assistive readers would describe the image.
+
+- span was added to the heart emoji at the footer and also a role and aria-label was assigned to describe and increase accessibility.
 
 ![Screenshot](./assets/images/Capture-HTML1.PNG)
 
@@ -49,5 +51,5 @@ The following changes were made to the CSS:
 
 [Github](https://github.com/rileyale001/homework01SemanticMarkupandRefactor.git)
 
-[Github link](https://rileyale001.github.io/homework1SemanticMarkupandRefactor/)
+[Website link](https://rileyale001.github.io/homework1SemanticMarkupandRefactor/)
 
