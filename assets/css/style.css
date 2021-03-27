@@ -9,8 +9,10 @@ body {
     background-color: #d9dcd6;
 }
  
-/* The header now includes the links within the document so that when the assistive reader readers the document it begins with "header" and reads the links for the user
-padding will all be 20px and follows the font family of 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif */
+/* The header now includes the links within the document so that when
+ the assistive reader readers the document it begins with "header" and reads the links for the user
+padding will all be 20px and follows the font family of 'Trebuchet MS', 'Lucida Sans Unicode',
+ 'Lucida Grande', 'Lucida Sans', Arial, sans-serif */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,7 +20,8 @@ header {
     color: #ffffff;
 }
 
-/* The header h1 now has inline-block display to fall under the header tag in an inline block display and font size of 48px*/
+/* The header h1 now has inline-block display to fall under the header tag in
+ an inline block display and font size of 48px*/
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -28,8 +31,9 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* The nav tag now properly navigates and tells the assistive reader where the links go within the webpage and is grouped within the header of the document and also groups all the links together in a nav functionality
-and floats to the right of the page within the header*/
+/* The nav tag now properly navigates and tells the assistive reader where the links go within 
+the webpage and is grouped within the header of the document and also groups all the links together in 
+a nav functionality and floats to the right of the page within the header*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -52,13 +56,16 @@ nav ul li {
 a {
     color: #ffffff;
     text-decoration: none;
+    
 }
 
 p {
     font-size: 16px;
 }
 
-/* The background image originally tagged as hero is now more descriptive as a div area for the reader to know that the document has a background image area which is embedded in the css as URL */
+/* The background image originally tagged as hero is now more descriptive as a div area
+ for the reader to know that the document has a background image area which is embedded 
+ in the css as URL */
 .background-image {
     height: 800px;
     width: 100%;
@@ -68,14 +75,17 @@ p {
     background-position: center;
 }
 
-/* Main groups all the content section of this document and and selectors and properties are all contained within the main area*/
+/* Content groups all the content section of this document and and 
+selectors and properties are all contained within the main area*/
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* content section which is contained in the main area of the webpage now has a grouped selectors and one property of content section so that it is more organized and semantic */
+/* content section which is contained in the main area of the webpage 
+now has a grouped selectors and one property of content section so that 
+it is more organized and semantic */
 .content-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -86,13 +96,15 @@ main {
 }
 
 
-/* images within the content section will now have a more organized structure so that all images are 200px within the content section
+/* images within the content section will now have a more 
+organized structure so that all images are 200px within the content section
 and makes sure all images are 200px */
 .content-section img {
     max-height: 200px;
 }
 
-/* h2 text within the content section will now have a more organized structure so that all images are 200px within the content section */
+/* h2 text within the content section will now have a more organized structure
+ so that all images are 200px within the content section */
 .content-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -131,7 +143,6 @@ and makes sure all images are 200px */
 .benefit-aside h3 {
     margin-bottom: 10px;
     text-align: center;
-
 }
 
 /* displays images in the aside as block with margins 10px auto and max width of 150px*/
@@ -141,7 +152,9 @@ and makes sure all images are 200px */
     max-width: 150px;
 }
 
-/* a footer selector was maintained but now has its own tag under the html so now the css will have its own selector to match the new semantic structure of the html document*/
+/* a footer selector was maintained but now has its own tag under the html
+ so now the css will have its own selector to match the new semantic structure of 
+ the html document*/
 footer {
     padding: 30px;
     clear: both;
